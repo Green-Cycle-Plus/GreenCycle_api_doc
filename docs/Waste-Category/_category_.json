@@ -1,0 +1,8 @@
+{
+  "label": "Waste Type",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This section manages waste types."
+  }
+}
